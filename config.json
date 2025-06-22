@@ -1,29 +1,30 @@
 {
   "folders": {
-    "Projects": {
-      "locked": true,
-      "password": "project123",
+    "行政資料_2019": {
+      "locked": false,
       "hidden": false
     },
-    "SecretPhotos": {
-      "locked": true,
-      "password": "photo123",
-      "hidden": true
-    },
-    "Public": {
+    "宿舍相關財產": {
       "locked": false,
+      "hidden": false
+    },
+    "老陳的私人檔案": {
+      "locked": true,
+      "password": "CHEN",
+      "hidden": false
+    },
+    "老陳的私人檔案/精彩的": {
+      "locked": true,
+      "password": "gaze",
       "hidden": false
     }
   },
   "files": {
-    "Projects/plan.pdf": {
-      "locked": false,
-      "hidden": false
+    "宿舍相關財產/lockedfile.pdf": {
+      "locked": true
     },
-    "SecretPhotos/summer.mp4": {
-      "locked": true,
-      "password": "video123",
-      "hidden": false
+    "宿舍相關財產/hiddenfile.pdf": {
+      "hidden": true
     }
   }
 }
