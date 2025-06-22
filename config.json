@@ -1,0 +1,29 @@
+{
+  "folders": {
+    "Projects": {
+      "locked": true,
+      "password": "project123",
+      "hidden": false
+    },
+    "SecretPhotos": {
+      "locked": true,
+      "password": "photo123",
+      "hidden": true
+    },
+    "Public": {
+      "locked": false,
+      "hidden": false
+    }
+  },
+  "files": {
+    "Projects/plan.pdf": {
+      "locked": false,
+      "hidden": false
+    },
+    "SecretPhotos/summer.mp4": {
+      "locked": true,
+      "password": "video123",
+      "hidden": false
+    }
+  }
+}
