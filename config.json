@@ -21,7 +21,8 @@
   },
   "files": {
     "宿舍財產相關/lockedfile.pdf": {
-      "locked": true
+      "locked": true,
+      "password": "826403"
     },
     "宿舍財產相關/hiddenfile.pdf": {
       "hidden": true
