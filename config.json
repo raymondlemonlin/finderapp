@@ -4,7 +4,7 @@
       "locked": false,
       "hidden": false
     },
-    "宿舍相關財產": {
+    "宿舍財產相關": {
       "locked": false,
       "hidden": false
     },
@@ -20,10 +20,10 @@
     }
   },
   "files": {
-    "宿舍相關財產/lockedfile.pdf": {
+    "宿舍財產相關/lockedfile.pdf": {
       "locked": true
     },
-    "宿舍相關財產/hiddenfile.pdf": {
+    "宿舍財產相關/hiddenfile.pdf": {
       "hidden": true
     }
   }
